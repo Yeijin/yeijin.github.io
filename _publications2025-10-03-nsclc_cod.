@@ -1,0 +1,20 @@
+---
+title: "Factors Associated With Cause-specific Mortality in Older Patients With Advanced NSCLC Treated With PD-1 Inhibitors: A U.S. Population-based Cohort Study"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-10-03-nsclc_cod
+excerpt: 'This retrospective study examined the competing risks of 4 causes of death among older adults with advanced NSCLC receiving nivolumab or pembrolizumab and identified factors influencing mortality.'
+date: 2025-10-03
+venue: 'Cancer Control'
+paperurl: 'https://journals.sagepub.com/doi/full/10.1177/10732748251380932'
+citation: 'Kim Y, Liu Y, Suh HS, Park C. Factors Associated With Cause-specific Mortality in Older Patients With Advanced NSCLC Treated With PD-1 Inhibitors: A U.S. Population-based Cohort Study. <i>Cancer Control.<i> 2025;32. doi:10.1177/10732748251380932'
+---
+## Abstract
+### Introduction
+Despite improved outcomes with PD-1 inhibitors (PD-1i) in advanced non–small cell lung cancer (NSCLC), the determinants of cancer-, cardiovascular disease (CVD)-, and other-cause mortality remain poorly characterized in older adults. This study applies competing-risks methods to estimate cause-specific mortality and to identify predictors for each cause in this population.
+### Methods
+A retrospective cohort study was conducted using the 2014-2019 SEER-Medicare linked database, including patients aged 65 years or older with advanced NSCLC who received PD-1i (nivolumab or pembrolizumab). Mortality outcomes included deaths from CVD, NSCLC, other cancers, and other diseases. Predictors included treatment-related factors (e.g., PD-1i type), demographic factors (e.g., age, sex), socioeconomic status (e.g., Medicaid dual eligibility), cancer-related factors (e.g., NSCLC stage), and comorbidities (e.g., congestive heart failure [CHF]). Competing risk analyses were performed using the Fine-Gray model, with cause-specific Cox models for sensitivity analyses.
+### Results
+Among 5076 patients, 68.36% received nivolumab and 31.64% received pembrolizumab. Of 3746 deaths, most were from NSCLC (85.34%), while 2.80% were from CVD. No significant difference in CVD mortality risk was observed between the two PD-1i (sub-distribution HR [sHR] = 1.08; 95% CI: 0.63-1.84), but NSCLC mortality was associated with a lower risk in the pembrolizumab group (sHR = 0.67; 95% CI: 0.60-0.74) compared to the nivolumab group. A history of CHF (sHR = 2.10; 95% CI: 1.37-3.21) and Medicaid dual eligibility (sHR = 2.70 vs private insurance; 95% CI: 1.28-5.56) were associated with increased CVD mortality. NSCLC mortality was higher in Stage IV/distant than in Stage IIIB/regional (sHR = 1.24; 95% CI: 1.13-1.35) and males (sHR = 1.11; 95% CI: 1.03-1.20).
+### Conclusions
+These results highlight the potential value of integrated cardio-oncology models and strategies addressing socioeconomic inequities among older adults receiving PD-1i. However, conclusions should be tempered by the SEER–Medicare data structure, including lack of biomarker information and restricted applicability to younger or non-Medicare populations.
