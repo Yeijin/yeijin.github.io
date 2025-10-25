@@ -7,7 +7,7 @@ excerpt: 'This study aimed to develop an ML algorithm for predicting the 90-day 
 date: 2025-04-17
 venue: 'Cancer Control'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/10732748251332803'
-citation: 'Le N, Han S, Kenawy AS, <b>Kim Y,<b> Park C. Machine Learning-Based Prediction of Unplanned Readmission Due to Major Adverse Cardiac Events Among Hospitalized Patients with Blood Cancers. <i>Cancer Control.<i> 2025;32. doi:10.1177/10732748251332803'
+citation: 'Le N, Han S, Kenawy AS, <b>Kim Y,</b> Park C. Machine Learning-Based Prediction of Unplanned Readmission Due to Major Adverse Cardiac Events Among Hospitalized Patients with Blood Cancers. <i>Cancer Control.</i> 2025;32. doi:10.1177/10732748251332803'
 ---
 ## Abstract
 ### Background
